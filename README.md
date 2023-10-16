@@ -9,7 +9,7 @@
 | | |
 | --- | --- |
 | Package | [![Pandas](https://pandas.pydata.org/static/img/pandas.svg)](https://pypi.org/project/pandas/) [![Seaborn]([https://www.python.org/static/img/seaborn.svg)](https://pypi.org/project/seaborn/) |
-| Meta | [![License - MIT](https://img.shields.io/pypi/l/pandas.svg)](https://github.com/pandas-dev/pandas/blob/main/LICENSE) |
+| Meta | [![License - MIT](https://img.shields.io/pypi/l/pandas.svg)](LICENSE) |
 
 
 ## What is it?
